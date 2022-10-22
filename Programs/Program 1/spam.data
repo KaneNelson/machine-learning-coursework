@@ -1,0 +1,7 @@
+Suspiciouswords,UnknownSender,ContainingImages,Class
+TRUE,FALSE,TRUE,spam
+TRUE,TRUE,FALSE,spam
+TRUE,TRUE,FALSE,spam
+FALSE,TRUE,TRUE,ham
+FALSE,FALSE,FALSE,ham
+FALSE,FALSE,FALSE,ham
